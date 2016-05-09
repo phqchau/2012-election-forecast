@@ -1,4 +1,4 @@
-# Copyright Chau Pham 2016
+# Copyright 2016, Chau Pham
 
 import math
 import numpy as np, pandas as pd, scipy as sp, seaborn as sns
